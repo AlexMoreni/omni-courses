@@ -7,7 +7,7 @@ export const Sidebar = () => {
       <div className="p-6">
         <div className="flex items-center gap-5">
           <Logo />
-          <h1 className="text-3xl">Omni</h1>
+          <h1 className="text-3xl text-blue-500 font-bold">Omni</h1>
         </div>
       </div>
       <div className="flex flex-col w-full">
